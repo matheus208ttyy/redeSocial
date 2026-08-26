@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color:#cfcfcf ;
 }
 
 body {
@@ -25,7 +26,7 @@ body {
 }
 
 .phone-screen {
-  background: #ede3e3;
+  background: #1c1b1b;
   border-radius: 32px;
   overflow: hidden;
   display: flex;
@@ -56,7 +57,8 @@ body {
 .username {
   font-weight: 600;
   font-size: 14px;
-  color: #0e0c0c;
+  color: #cfcfcf
+  ;
 }
 
 .more-options {
@@ -69,7 +71,7 @@ body {
   position: relative;
   width: 100%;
   aspect-ratio: 4 / 5;
-  background-color: #eee;
+  background-color: #1c1b1b;
 }
 
 .post-media img.main-img {
@@ -100,7 +102,7 @@ body {
   position: absolute;
   bottom: -2px;
   right: -2px;
-  background: #561296;
+  background: #2c059f;
   color: rgb(18, 5, 5);
   font-size: 10px;
   font-weight: bold;
@@ -133,7 +135,7 @@ body {
   gap: 5px;
   font-size: 13px;
   font-weight: 600;
-  color: #ffffff;
+  color: #cfcfcf;
   cursor: pointer;
   background: none;
   border: none;
@@ -186,4 +188,3 @@ body {
   stroke: currentColor;
   stroke-width: 2;
 }
-
